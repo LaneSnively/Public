@@ -1,0 +1,1 @@
+python3 tetris_sim.py
